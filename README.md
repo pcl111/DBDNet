@@ -39,3 +39,5 @@ To test the network for sigma=50:
 python2 main_blind.py --phase test --sigma 50.0
 ```
 Denoised images are saved in ./test folder.
+## Reference
+* Code structure follows the repository [DnCNN-Tensorflow](https://github.com/Shakarim94/CDnCNN-B-tensorflow)
